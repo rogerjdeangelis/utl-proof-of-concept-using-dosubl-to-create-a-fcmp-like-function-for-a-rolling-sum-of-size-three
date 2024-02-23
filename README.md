@@ -11,7 +11,7 @@ Proof of concept using dosubl to create a fcmp like function for a rolling sum o
 
     Why dosubl is potentially more powerfull than FCMP
 
-       1. DOSUBL supports file and datastep IO
+       1. DOSUBL supports file and datastep IO (FCMP can load sas variables into arrays - read_array and write_array)
        2. DOSUBL supports more datastep statments and functions than FCMP
           (FCMP appears to be a subset of the SAS datastep statements)
 
