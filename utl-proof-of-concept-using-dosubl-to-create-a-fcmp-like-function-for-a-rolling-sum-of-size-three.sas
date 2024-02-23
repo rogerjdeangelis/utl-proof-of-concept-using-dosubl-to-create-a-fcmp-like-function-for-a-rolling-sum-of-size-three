@@ -9,7 +9,7 @@ In this case below the macro doe not generate static code before the datasteps s
 
 Why dosubl is potentially more powerfull than FCMP
 
-   1. DOSUBL supports file and datastep IO
+   1. DOSUBL supports file and datastep IO(FCMP can load sas variables into arrays - read_array and write_array)
    2. DOSUBL supports more datastep statments and functions than FCMP
       (FCMP appears to be a subset of the SAS datastep statements)
 
